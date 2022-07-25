@@ -1,8 +1,8 @@
 #include<iostream>
-#include<fstream>
-#include<sstream>
 #include<string>
 #include<stdlib.h>
+#include<fstream>
+#include<sstream>
 #include<cstdlib>
 #include<math.h>
 #include<conio.h>
